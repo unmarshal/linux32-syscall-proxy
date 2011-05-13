@@ -1,0 +1,7 @@
+This allows you to execute system calls over the network. It is very useful for security purposes.
+You could basically rewrite a portion of libc that calls these functions to implement common things
+like listing files in a directory, changing the directory, opening, closing and deleting files.
+
+Proof of concept built on 32 bit Linux system.
+
+- Marshall Beddoe (unmarshal@gmail.com)
