@@ -1,4 +1,4 @@
-This allows you to execute system calls over the network.
+This allows you to execute system calls over the network.  Turn server.c assembly into shellcode.
 
 Proof of concept built on 32 bit Linux system.
 
